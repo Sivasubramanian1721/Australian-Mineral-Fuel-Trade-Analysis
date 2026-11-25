@@ -66,3 +66,4 @@ Excel · Tableau · Python · pandas · statsmodels · Matplotlib
 - `gas_export_forecast.ipynb`: data summary, Holt forecast, Tableau comparison and backtest
 - `abs_mineral_fuel_trade.csv`: cleaned ABS data
 - `.png` files: charts used in this README (`mineral_fuel_trade_trends.png`, `petroleum_vs_gas_trade.png` and `gas_export_forecast_tableau.png` are from the Tableau dashboard)
+- `Australian_Mineral_Trade_Data.xlsx`: Excel workbook with the ABS data and prepared views (raw dollar, statistical share, growth index) used for the Tableau dashboards
